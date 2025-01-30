@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    box-sizing: border-box;
+    border: none;
+    background-color: rgb(153, 147, 146) ;
+    width: 25%;
+    margin:auto ;
+    margin-top: 15%;
+    border-radius: 10px;
+    height: 50vh;
+    padding: 35px;
+    margin: auto;
+
+    margin-top:80px;
+    height: 80%
+    ;
+    
+}
+h2 {
+ margin-top: 2rem;   
+}
+a{
+    /* border: 2px solid black; */
+    text-decoration: none;
+    padding: 2px;
+    width: 50%;
+    background-color: rgba(48, 22, 216, 0.61);
+    color: rgb(255, 255, 255);
+    transition:1sec;
+}
+p{
+    padding: 1px;
+    margin:1px;
+}
+a{
+    border-radius: 5%;
+    background-color: blue;
+    
+}
+
